@@ -33,7 +33,7 @@ export default function HomePage() {
               href="/places"
               className="inline-flex items-center justify-center px-8 py-4 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-lg transition-all shadow-lg shadow-emerald-900/40 hover:scale-105 hover:shadow-emerald-900/60 gap-3 group"
             >
-              เริ่มต้นสำรวจสถานที่
+              See All Places
               <svg
                 className="w-5 h-5 transform group-hover:translate-x-1 transition-transform"
                 fill="none"
