@@ -72,10 +72,6 @@ export default function PublicLayout({
               Khai Campus
             </p>
           </div>
-          <p className="text-xs text-slate-500">
-            © {new Date().getFullYear()} Campus Guide App. Created for
-            Educational Purposes.
-          </p>
         </div>
       </footer>
     </div>

@@ -111,7 +111,7 @@ export default function PlaceManagementPage() {
             </div>
 
             {/* Main Info */}
-            <div className="flex-grow min-w-0 md:pl-2">
+            <div className="flex-grow bg-[#1e293b] md:pl-2 ">
               <h3 className="text-white font-bold text-base md:text-lg truncate">
                 {place.name}
               </h3>

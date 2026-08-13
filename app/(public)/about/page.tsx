@@ -16,11 +16,10 @@ export default function AboutPage() {
 
       <div className="bg-white rounded-3xl p-8 md:p-10 shadow-sm border border-slate-100 grid md:grid-cols-3 gap-8 items-center ">
         <div className="flex flex-col items-center text-center space-y-4 md:border-r md:border-slate-100 md:pr-8">
-          {/* จุดที่ผมเพิ่มคอมโพเนนต์รูปภาพให้ */}
           <div className="relative w-32 h-32 rounded-full overflow-hidden border-4 border-slate-100 shadow-md bg-slate-200 shrink-0">
             <Image
               src="/about.jpg"
-              alt="Athiwat Tangrusicharoen"
+              alt="อธิวัฒน์ ตั้งฤาษีเจริญ"
               fill
               className="object-cover"
             />
@@ -28,7 +27,7 @@ export default function AboutPage() {
 
           <div>
             <h2 className="text-xl font-bold text-slate-900">
-              Athiwat Tangrusicharoen
+              อธิวัฒน์ ตั้งฤาษีเจริญ
             </h2>
             <p className="text-xs text-red-600 font-semibold mt-0.5">
               นักศึกษา มหาวิทยาลัยขอนแก่น
