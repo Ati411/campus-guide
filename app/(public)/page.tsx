@@ -13,7 +13,7 @@ export default function HomePage() {
 
         <div className="space-y-6 relative z-10 max-w-4xl px-4">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white tracking-tight leading-tight">
-            WELCOME <br />
+            WELCOME TO <br />
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-800 via-red-600 to-amber-600">
               Khon Kaen University
             </span>
@@ -24,8 +24,8 @@ export default function HomePage() {
           </h1>
 
           <p className="text-slate-400 max-w-2xl mx-auto text-base md:text-lg leading-relaxed">
-            สำรวจสถานที่สำคัญ อาคารเรียน ห้องสมุด และจุดบริการต่างๆ
-            ภายในคณะสหวิทยาการ ได้อย่างสะดวก รวดเร็ว และครบถ้วนในที่เดียว
+            สำรวจสถานที่ อาคารเรียน ห้องสมุด และจุดบริการต่างๆ
+            ภายในคณะสหวิทยาการ ได้อย่างสะดวก
           </p>
 
           <div className="pt-8">
