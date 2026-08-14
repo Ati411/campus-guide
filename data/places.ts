@@ -13,7 +13,7 @@ export type Place = {
 export const places: Place[] = [
   {
     slug: "interdisciplinary-office",
-    name: "อาคารสำนักงานบริหาร คณะสหวิทยาการ (Administrative Office)",
+    name: "อาคารสำนักงานบริหาร คณะสหวิทยาการ",
     englishName:
       "Administration Building, Faculty of Interdisciplinary Studies",
     summary:
